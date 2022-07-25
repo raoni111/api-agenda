@@ -1,4 +1,3 @@
-import { env } from './.eslintrc';
 import app from './app';
 
 const HOST = 'localhost' | process.env.HOST;
